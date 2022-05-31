@@ -1,0 +1,1435 @@
+﻿Log file open, 05/31/22 12:51:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerTest1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.210835
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.31-03.51.29:098][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.31-03.51.29:098][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.31-03.51.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:098][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.31-03.51.29:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.31-03.51.29:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:099][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.31-03.51.29:103][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.31-03.51.29:104][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.31-03.51.29:104][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.31-03.51.29:104][  0]LogHAL: Display: Platform has ~ 16 GB [16989282304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.31-03.51.29:104][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.31-03.51.29:104][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2022.05.31-03.51.29:105][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.31-03.51.29:105][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.31-03.51.29:105][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.31-03.51.29:105][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.31-03.51.29:105][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.31-03.51.29:106][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.31-03.51.29:106][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.31-03.51.29:106][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Engine.ini]
+[2022.05.31-03.51.29:106][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/work/MyProjectGame_TowerDefense/Saved/Config/Windows/Editor.ini]
+[2022.05.31-03.51.29:106][  0]LogInit: Computer: DESKTOP-HME5P3N
+[2022.05.31-03.51.29:106][  0]LogInit: User: parkdoyoung
+[2022.05.31-03.51.29:106][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.31-03.51.29:106][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.31-03.51.29:106][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.31-03.51.29:106][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.31-03.51.29:106][  0]LogMemory: Process Physical Memory: 142.96 MB used, 142.96 MB peak
+[2022.05.31-03.51.29:106][  0]LogMemory: Process Virtual Memory: 127.27 MB used, 127.27 MB peak
+[2022.05.31-03.51.29:106][  0]LogMemory: Physical Memory: 5640.85 MB used,  10561.39 MB free, 16202.24 MB total
+[2022.05.31-03.51.29:106][  0]LogMemory: Virtual Memory: 134202888.00 MB used,  14836.68 MB free, 134217728.00 MB total
+[2022.05.31-03.51.29:110][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.31-03.51.29:124][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.31-03.51.29:125][  0]LogInit: Using OS detected language (ko-KR).
+[2022.05.31-03.51.29:125][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.05.31-03.51.29:127][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.05.31-03.51.29:221][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.31-03.51.29:239][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.31-03.51.29:246][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.31-03.51.29:246][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.31-03.51.29:339][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.31-03.51.29:341][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.31-03.51.29:341][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.31-03.51.29:341][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.31-03.51.29:341][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.31-03.51.29:431][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 with Max-Q Design' (Feature Level 11_0)
+[2022.05.31-03.51.29:431][  0]LogD3D11RHI:       3962/0/8101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.31-03.51.29:443][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.05.31-03.51.29:443][  0]LogD3D11RHI:       128/0/8101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:       0/0/8101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 with Max-Q Design
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     SubSysId    : 12f41462
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     SharedSystemMemory : 8494641152 bytes
+[2022.05.31-03.51.29:445][  0]LogD3D11RHI:     AdapterLuid : 0 54293
+[2022.05.31-03.51.29:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.31-03.51.29:448][  0]LogD3D11RHI:     GPU DeviceId: 0x1f9d (for the marketing name, search the web for "GPU Device Id")
+[2022.05.31-03.51.29:448][  0]LogWindows: EnumDisplayDevices:
+[2022.05.31-03.51.29:448][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.05.31-03.51.29:448][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.31-03.51.29:449][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.31-03.51.29:449][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 with Max-Q Design
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.05.31-03.51.29:449][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 with Max-Q Design
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     SubSysId    : 12f41462
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     SharedSystemMemory : 8494641152 bytes
+[2022.05.31-03.51.29:449][  0]LogD3D11RHI:     AdapterLuid : 0 54293
+[2022.05.31-03.51.29:511][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.31-03.51.29:511][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.31-03.51.29:511][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.31-03.51.29:529][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.05.31-03.51.29:557][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.31-03.51.29:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.31-03.51.29:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.31-03.51.29:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.31-03.51.29:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.31-03.51.29:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.31-03.51.29:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.31-03.51.29:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.31-03.51.29:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.31-03.51.29:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.31-03.51.29:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.31-03.51.29:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.31-03.51.29:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.31-03.51.29:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.31-03.51.29:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.31-03.51.29:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.31-03.51.29:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.31-03.51.29:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.31-03.51.29:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.31-03.51.29:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.31-03.51.29:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.31-03.51.29:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.31-03.51.29:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.31-03.51.29:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.31-03.51.29:910][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.31-03.51.29:915][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.31-03.51.29:937][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.31-03.51.29:958][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.31-03.51.29:958][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../work/MyProjectGame_TowerDefense/Intermediate/Shaders/WorkingDirectory/13496/).
+[2022.05.31-03.51.29:958][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/parkdoyoung/AppData/Local/Temp/UnrealShaderWorkingDir/0BA513954BAC25F66145C3BD0301213A/'.
+[2022.05.31-03.51.29:958][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.31-03.51.29:959][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.31-03.51.29:959][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.31-03.51.30:614][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.31-03.51.30:662][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/parkdoyoung/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.31-03.51.30:663][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/parkdoyoung/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.05.31-03.51.30:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../work/MyProjectGame_TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.31-03.51.30:663][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.31-03.51.30:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../work/MyProjectGame_TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.31-03.51.30:663][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.31-03.51.30:677][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.31-03.51.30:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.31-03.51.30:677][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.31-03.51.30:684][  0]LogDerivedDataCache: Speed tests for C:/Users/parkdoyoung/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.31-03.51.30:684][  0]LogDerivedDataCache: Display: Performance to C:/Users/parkdoyoung/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=374.27MBs, RandomWriteSpeed=226.43MBs. Assigned SpeedClass 'Local'
+[2022.05.31-03.51.30:684][  0]LogDerivedDataCache: Using Local data cache path C:/Users/parkdoyoung/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.31-03.51.30:685][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.31-03.51.30:685][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.31-03.51.30:726][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.31-03.51.30:726][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.31-03.51.30:748][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.05.31-03.51.30:935][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.31-03.51.30:935][  0]LogInit: Active device profile: [00000264A774CD00][000002649C484400 49] Windows
+[2022.05.31-03.51.30:935][  0]LogInit: Profiles: [00000264A774CD00][000002649C484400 49] Windows, [00000264A7721E00][000002649C494580 49] WindowsNoEditor, [00000264A774DC00][00000264A9CC8700 49] WindowsServer, [00000264A7722C00][000002649C488840 49] WindowsClient, [00000264A774E900][00000264A9D12980 49] IOS, [00000264A7721500][00000264A9D16AC0 49] iPadAir, [00000264A774FE00][00000264A6438C40 49] iPadAir2, [00000264A76B5100][00000264A6440F00 49] IPadPro, [00000264A76B5200][00000264A643CF40 49] iPadAir3, [00000264A7720C00][00000264A64450C0 49] iPadAir4, [00000264A76B5E00][00000264A6449240 49] iPadMini2, [00000264A7722E00][00000264A644D3C0 49] iPadMini3, [00000264A76B7900][00000264A990B540 49] iPadMini4, [00000264A7723D00][00000264A95FD6C0 49] iPadMini5, [00000264A76D8900][00000264A99B7980 49] iPhone6, [00000264A76D8A00][00000264A96019C0 49] iPodTouch6, [00000264A774EE00][00000264A97D0100 49] iPhone7, [00000264A774EF00][00000264A99E6140 49] iPodTouch7, [00000264A76B7E00][00000264A97D42C0 49] iPhone5S, [00000264A774CF00][00000264A9808440 49] iPhone6Plus, [00000264A76D8100][00000264A98185C0 49] iPhone6S, [00000264A76B4300][00000264A982A740 49] iPhone6SPlus, [00000264A76DA800][00000264A982E8C0 49] iPhone7Plus, [00000264A76B6400][00000264A9D1AA00 49] iPhoneSE, [00000264A76DA600][00000264A983CB40 49] iPhone8, [00000264A76B4400][00000264A9840C80 49] iPhone8Plus, [00000264A76DB100][00000264A9844DC0 49] iPhoneX, [00000264A774D400][00000264A984CF40 49] iPhoneXS, [00000264A76DAB00][00000264A98510C0 49] iPhoneXSMax, [00000264A774C700][00000264A9855240 49] iPhoneXR, [00000264A76D8800][00000264A98593C0 49] iPhone11, [00000264A774D100][00000264A985D540 49] iPhone11Pro, [00000264A76D9A00][00000264A98616C0 49] iPhone11ProMax, [00000264A774F700][00000264A9D0D840 49] iPhoneSE2, [00000264A76DB800][00000264A98819C0 49] iPhone12Mini, [00000264A774E300][00000264A9885B40 49] iPhone12, [00000264A76DB200][00000264A9888140 49] iPhone12Pro, [00000264A774D300][00000264A9E062C0 49] iPhone12ProMax, [00000264A76D9500][00000264A9E0A440 49] iPadPro105, [00000264A774CA00][00000264A9E0E5C0 49] iPadPro129, [00000264A76DBD00][00000264A9E12740 49] iPadPro97, [00000264A774EA00][00000264A9E168C0 49] iPadPro2_129, [00000264A76DA900][00000264A9E1AA40 49] iPad5, [00000264A774DE00][00000264A9848B80 49] iPad6, [00000264A76D9300][00000264A9E1ECC0 49] iPad7, [00000264A774C200][00000264A9E22E00 49] iPad8, [00000264A76D8400][00000264A9E26F40 49] iPadPro11, [00000264A774DA00][00000264A9E2F0C0 49] iPadPro2_11, [00000264A76D9600][00000264A9E33240 49] iPadPro3_129, [00000264A774E700][00000264A9E373C0 49] iPadPro4_129, [00000264A76D8200][00000264A9E3B540 49] AppleTV, [00000264A774C900][00000264A9E3F6C0 49] AppleTV4K, [00000264A76D9D00][00000264A9E43840 49] TVOS, [00000264A774ED00][00000264A9E479C0 49] Mac, [00000264A76DB600][00000264A9E4BB40 49] MacClient, [00000264A774F900][00000264A9E4E140 49] MacNoEditor, [00000264A76DB500][00000264A9E522C0 49] MacServer, [00000264A774D200][00000264A9E56440 49] Linux, [00000264A76D9C00][00000264A988C5C0 49] LinuxAArch64, [00000264A774FC00][00000264A9890740 49] LinuxNoEditor, [00000264A76DA300][00000264A98948C0 49] LinuxAArch64NoEditor, [00000264A774DB00][00000264A98A2A40 49] LinuxClient, [00000264A76DA500][00000264A98A6BC0 49] LinuxAArch64Client, [00000264A774CE00][00000264A98AAD40 49] LinuxServer, [00000264A76DB900][00000264A9E2AE80 49] LinuxAArch64Server, [00000264A774F500][00000264A95BAFC0 49] Android, [00000264A76D9E00][00000264A9899100 49] Android_Low, [00000264A774DF00][00000264AA125280 49] Android_Mid, [00000264A76DA200][00000264AA129400 49] Android_High, [00000264A774FF00][00000264AA12D580 49] Android_Default, [00000264A76DA000][00000264A95E1700 49] Android_Adreno4xx, [00000264A774FD00][00000264A95E5880 49] Android_Adreno5xx_Low, [00000264A76DAA00][00000264A95E9A00 49] Android_Adreno5xx, [00000264A774F800][00000264A99EBB80 49] Android_Adreno6xx, [00000264A7720500][00000264A99BE180 49] Android_Adreno6xx_Vulkan, [00000264A76B5400][00000264A99BA300 49] Android_Mali_T6xx, [00000264A7723C00][00000264A9604480 49] Android_Mali_T7xx, [00000264A76B6D00][000002649C48C600 49] Android_Mali_T8xx, [00000264A7722A00][000002649C490780 49] Android_Mali_G71, [00000264A76B7400][00000264A95EC900 49] Android_Mali_G72, [00000264A7721200][00000264A95F0A80 49] Android_Mali_G72_Vulkan, [00000264A76B5300][00000264A95F4C00 49] Android_Mali_G76, [00000264A7723800][00000264A95F8D80 49] Android_Mali_G76_Vulkan, [00000264A76B6C00][000002649D0F0F00 49] Android_Mali_G77, [00000264A7721000][00000264A9E5B040 49] Android_Mali_G77_Vulkan, [00000264A76B5800][000002649D0F5180 49] Android_Mali_G78, [00000264A7721D00][000002649D0F92C0 49] Android_Mali_G78_Vulkan, [00000264A76B7D00][000002649D101440 49] Android_Mali_G710, [00000264A7720300][000002649D1055C0 49] Android_Mali_G710_Vulkan, [00000264A76B4200][000002649D109740 49] Android_Vulkan_SM5, [00000264A7720800][000002649D10D8C0 49] Android_PowerVR_G6xxx, [00000264A76B6500][000002649D111A40 49] Android_PowerVR_GT7xxx, [00000264A7723F00][000002649D115BC0 49] Android_PowerVR_GE8xxx, [00000264A76B5500][00000264A9D301C0 49] Android_PowerVR_GM9xxx, [00000264A7720D00][00000264A9D34340 49] Android_PowerVR_GM9xxx_Vulkan, [00000264A76B5900][00000264A9D384C0 49] Android_TegraK1, [00000264A7720600][00000264A9D3C640 49] Android_Unknown_Vulkan, [00000264A76B7800][00000264A9D407C0 49] Lumin, [00000264A7722100][00000264A9D44940 49] Lumin_Desktop, [00000264A76B7B00][00000264A9D48AC0 49] HoloLens, 
+[2022.05.31-03.51.31:041][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.31-03.51.31:041][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.31-03.51.31:041][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.31-03.51.31:041][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.31-03.51.31:041][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.31-03.51.31:051][  0]LogNetVersion: TowerTest1 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 491902013)
+[2022.05.31-03.51.31:396][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.31-03.51.31:441][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.31-03.51.31:446][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.05.31-03.51.31:446][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.05.31-03.51.31:446][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.31-03.51.31:646][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 693C439948792DAB69954AA43D1AC5DB | Instance: 97697DA2406E04B562B653BFB0D871D1 (DESKTOP-HME5P3N-13496).
+[2022.05.31-03.51.31:739][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.31-03.51.31:743][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.31-03.51.31:756][  0]LogPython: Using Python 3.7.7
+[2022.05.31-03.51.32:280][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.32:280][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.32:285][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.32:287][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.32:305][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.32:354][  0]LogUProjectInfo: Found projects:
+[2022.05.31-03.51.32:477][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.31-03.51.32:486][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.31-03.51.32:502][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.31-03.51.32:502][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.31-03.51.32:596][  0]LogCollectionManager: Loaded 0 collections in 0.001257 seconds
+[2022.05.31-03.51.32:615][  0]LogFileCache: Scanning file cache for directory 'C:/work/MyProjectGame_TowerDefense/Saved/Collections/' took 0.00s
+[2022.05.31-03.51.32:615][  0]LogFileCache: Scanning file cache for directory 'C:/work/MyProjectGame_TowerDefense/Content/Developers/parkdoyoung/Collections/' took 0.00s
+[2022.05.31-03.51.32:615][  0]LogFileCache: Scanning file cache for directory 'C:/work/MyProjectGame_TowerDefense/Content/Collections/' took 0.00s
+[2022.05.31-03.51.32:615][  0]LogOcInput: OculusInput pre-init called
+[2022.05.31-03.51.32:824][  0]LogEngine: Initializing Engine...
+[2022.05.31-03.51.32:825][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.31-03.51.32:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.31-03.51.32:825][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.31-03.51.32:826][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.31-03.51.32:924][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.31-03.51.32:930][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.31-03.51.32:939][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.31-03.51.32:942][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.31-03.51.32:942][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.31-03.51.32:942][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.31-03.51.32:942][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.31-03.51.32:942][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.51.32:942][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.51.32:943][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.51.32:943][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.51.32:943][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.51.32:943][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.51.32:943][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.51.32:952][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.51.32:952][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.51.32:978][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.51.32:980][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.51.32:982][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.51.32:982][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.51.32:982][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.51.32:982][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.51.32:982][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.51.32:983][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.51.32:983][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.51.32:983][  0]LogInit: FAudioDevice initialized.
+[2022.05.31-03.51.32:983][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.31-03.51.32:983][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.31-03.51.33:038][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/parkdoyoung/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.31-03.51.33:039][  0]LogInit: Texture streaming: Enabled
+[2022.05.31-03.51.33:047][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.05.31-03.51.33:050][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.31-03.51.33:050][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.31-03.51.33:051][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.31-03.51.33:069][  0]LogInit: Transaction tracking system initialized
+[2022.05.31-03.51.33:087][  0]BlueprintLog: New page: 에디터 로드
+[2022.05.31-03.51.33:130][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.05.31-03.51.33:147][  0]TimingProfiler: Initialize
+[2022.05.31-03.51.33:147][  0]TimingProfiler: OnSessionChanged
+[2022.05.31-03.51.33:147][  0]LoadingProfiler: Initialize
+[2022.05.31-03.51.33:147][  0]LoadingProfiler: OnSessionChanged
+[2022.05.31-03.51.33:147][  0]NetworkingProfiler: Initialize
+[2022.05.31-03.51.33:147][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.31-03.51.33:147][  0]MemoryProfiler: Initialize
+[2022.05.31-03.51.33:147][  0]MemoryProfiler: OnSessionChanged
+[2022.05.31-03.51.33:254][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.31-03.51.33:254][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.31-03.51.33:394][  0]LogFileCache: Scanning file cache for directory 'C:/work/MyProjectGame_TowerDefense/Content/' took 0.00s
+[2022.05.31-03.51.33:565][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.31-03.51.33:567][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.31-03.51.33:567][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.346
+[2022.05.31-03.51.33:567][  0]Cmd: MAP LOAD FILE="../../../../../../work/MyProjectGame_TowerDefense/Content/Levels/ProjectileTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.31-03.51.33:567][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.31-03.51.33:568][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.51.33:569][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.51.33:569][  0]MapCheck: New page: 맵 체크
+[2022.05.31-03.51.33:569][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.31-03.51.33:572][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.51.33:574][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.31-03.51.33:673][  0]LogStaticMesh: MyProjectile 스태틱 메시 빌드중...
+[2022.05.31-03.51.33:683][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MyMeshs/MyProjectile.MyProjectile
+[2022.05.31-03.51.33:688][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ProjectileTest'.
+[2022.05.31-03.51.33:689][  0]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.51.33:694][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.31-03.51.33:703][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.31-03.51.33:703][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.31-03.51.33:703][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.118ms.
+[2022.05.31-03.51.33:703][  0]LogFileHelpers: Loading map 'ProjectileTest' took 0.136
+[2022.05.31-03.51.33:705][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.484
+[2022.05.31-03.51.33:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.33:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.33:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.33:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.33:843][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.31-03.51.33:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.31-03.51.33:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.05.31-03.51.33:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.31-03.51.33:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.05.31-03.51.33:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.31-03.51.33:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.05.31-03.51.33:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.31-03.51.33:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.05.31-03.51.33:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.31-03.51.33:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.05.31-03.51.33:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.05.31-03.51.33:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.05.31-03.51.33:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.05.31-03.51.33:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.31-03.51.33:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.05.31-03.51.33:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.31-03.51.33:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.05.31-03.51.33:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.31-03.51.33:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.05.31-03.51.33:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.31-03.51.33:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.05.31-03.51.33:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.31-03.51.33:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.05.31-03.51.33:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.31-03.51.33:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.05.31-03.51.33:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.31-03.51.33:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.05.31-03.51.33:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.31-03.51.33:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.05.31-03.51.33:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.31-03.51.33:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.05.31-03.51.33:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.31-03.51.33:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.05.31-03.51.33:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.31-03.51.33:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.05.31-03.51.33:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.31-03.51.33:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.05.31-03.51.33:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.31-03.51.33:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.05.31-03.51.33:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.31-03.51.33:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.05.31-03.51.33:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.31-03.51.33:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.05.31-03.51.33:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.05.31-03.51.33:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.05.31-03.51.33:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.31-03.51.33:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.31-03.51.33:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.05.31-03.51.33:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.31-03.51.33:984][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.31-03.51.33:985][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.31-03.51.33:987][  0]LogSlate: Took 0.001362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.05.31-03.51.33:989][  0]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.05.31-03.51.33:989][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.31-03.51.34:056][  0]LogRenderer: Reallocating scene render targets to support 864x412 Format 10 NumSamples 1 (Frame:1).
+[2022.05.31-03.51.34:114][  0]LogLoad: (Engine Initialization) Total time: 5.89 seconds
+[2022.05.31-03.51.34:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.31-03.51.34:165][  0]LogAssetRegistry: Asset discovery search completed in 3.4182 seconds
+[2022.05.31-03.51.34:170][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.05.31-03.51.34:172][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.31-03.51.34:368][  3]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3822 classes and 928 folders.
+[2022.05.31-03.51.34:378][  3]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.31-03.51.35:144][ 49]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.31-03.51.38:756][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Parents/BP_Projectile_parent.BP_Projectile_parent
+[2022.05.31-03.51.38:937][249]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.31-03.51.39:635][249]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.31-03.51.39:683][250]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.31-03.51.41:474][350]LogSlate: Window 'BP_Projectile_parent' being destroyed
+[2022.05.31-03.51.41:481][351]LogRenderer: Reallocating scene render targets to support 1080x516 Format 10 NumSamples 1 (Frame:314).
+[2022.05.31-03.51.45:224][575]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.51.45:228][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.51.45:228][575]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:51:45)
+[2022.05.31-03.51.45:229][575]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.31-03.51.45:230][575]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.31-03.51.45:230][575]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.51.45:233][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002451s)
+[2022.05.31-03.51.45:234][575]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.51.45:234][575]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2022.05.31-03.51.45:234][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.003592s)
+[2022.05.31-03.51.45:253][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.31-03.51.45:255][575]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.51.45:255][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.51.45:255][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.51.45:255][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.51.45:255][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.51.45:255][575]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.51.45:256][575]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.51.45:256][575]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.51.45:279][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.51.45:279][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.51.45:280][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.51.45:280][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.51.45:280][575]LogInit: FAudioDevice initialized.
+[2022.05.31-03.51.45:280][575]LogAudio: Display: Audio Device (ID: 2) registered with world 'ProjectileTest'.
+[2022.05.31-03.51.45:289][575]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.51.45:290][575]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.51.45
+[2022.05.31-03.51.45:290][575]LogWorld: Bringing up level for play took: 0.000689
+[2022.05.31-03.51.45:290][575]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.05.31-03.51.45:293][575]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.31-03.51.45:293][575]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.51.45:294][575]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2022.05.31-03.51.46:601][639]LogEditorViewport: Clicking on Actor (LMB): BP_MultiMonster_Child2_C (BP_MultiMonster_Child2)
+[2022.05.31-03.51.52:687][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.52:687][  1]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.51.52:688][  1]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.51.52:688][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.51.52:692][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.51.52:696][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.51.52:718][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.51.52:718][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.51.52:719][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.51.52:722][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.51.52:739][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.31-03.51.52:755][  2]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.31-03.51.53:809][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_MultiMonster_Child2_C (BP_MultiMonster_Child2)
+[2022.05.31-03.51.55:749][181]Cmd: SELECT NONE
+[2022.05.31-03.51.56:533][228]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.51.56:536][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.51.56:536][228]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:51:56)
+[2022.05.31-03.51.56:556][228]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.51.56:558][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2022.05.31-03.51.56:559][228]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.51.56:559][228]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.05.31-03.51.56:559][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.003083s)
+[2022.05.31-03.51.56:582][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.05.31-03.51.56:583][228]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.51.56:583][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.51.56:583][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.51.56:583][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.51.56:583][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.51.56:583][228]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.51.56:584][228]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.51.56:584][228]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.51.56:606][228]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.51.56:607][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.51.56:607][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.51.56:607][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.51.56:607][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.51.56:607][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.51.56:607][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.51.56:608][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.51.56:608][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.51.56:608][228]LogInit: FAudioDevice initialized.
+[2022.05.31-03.51.56:608][228]LogAudio: Display: Audio Device (ID: 3) registered with world 'ProjectileTest'.
+[2022.05.31-03.51.56:612][228]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.51.56:613][228]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.51.56
+[2022.05.31-03.51.56:613][228]LogWorld: Bringing up level for play took: 0.000607
+[2022.05.31-03.51.56:614][228]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.05.31-03.51.56:615][228]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.51.56:616][228]PIE: 에디터에서 플레이 총 시작 시간 0.081초입니다.
+[2022.05.31-03.52.01:067][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.01:067][494]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.01:068][494]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.01:068][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.01:072][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.01:076][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.01:095][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.52.01:095][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.01:096][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.01:098][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.01:101][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.31-03.52.01:154][497]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.31-03.52.02:137][556]LogEditorViewport: Clicking on Actor (LMB): BP_MultiMonster_Child1_C (BP_MultiMonster_Child1)
+[2022.05.31-03.52.03:811][656]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.52.03:813][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.52.03:813][656]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:52:03)
+[2022.05.31-03.52.03:814][656]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.03:815][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001865s)
+[2022.05.31-03.52.03:816][656]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.52.03:817][656]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2022.05.31-03.52.03:817][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.003006s)
+[2022.05.31-03.52.03:838][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.31-03.52.03:839][656]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.52.03:839][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.52.03:839][656]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.52.03:839][656]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.52.03:839][656]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.52.03:839][656]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.52.03:840][656]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.52.03:840][656]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.52.03:862][656]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.52.03:862][656]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.52.03:863][656]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.52.03:863][656]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.52.03:863][656]LogInit: FAudioDevice initialized.
+[2022.05.31-03.52.03:863][656]LogAudio: Display: Audio Device (ID: 4) registered with world 'ProjectileTest'.
+[2022.05.31-03.52.03:868][656]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.52.03:869][656]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.52.03
+[2022.05.31-03.52.03:869][656]LogWorld: Bringing up level for play took: 0.000640
+[2022.05.31-03.52.03:869][656]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.31-03.52.03:871][656]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.52.03:872][656]PIE: 에디터에서 플레이 총 시작 시간 0.058초입니다.
+[2022.05.31-03.52.07:528][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.07:528][873]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.07:528][873]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.07:528][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.07:535][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.07:544][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.07:564][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.52.07:564][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.07:565][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.07:568][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.07:571][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.31-03.52.07:604][875]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.31-03.52.08:338][919]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.52.08:342][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.52.08:342][919]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:52:08)
+[2022.05.31-03.52.08:342][919]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.08:344][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001891s)
+[2022.05.31-03.52.08:345][919]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.52.08:345][919]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2022.05.31-03.52.08:345][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.002843s)
+[2022.05.31-03.52.08:367][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.31-03.52.08:368][919]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.52.08:368][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.52.08:368][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.52.08:368][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.52.08:368][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.52.08:368][919]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.52.08:369][919]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.52.08:369][919]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.52.08:390][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.52.08:390][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.52.08:392][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.52.08:392][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.52.08:392][919]LogInit: FAudioDevice initialized.
+[2022.05.31-03.52.08:392][919]LogAudio: Display: Audio Device (ID: 5) registered with world 'ProjectileTest'.
+[2022.05.31-03.52.08:397][919]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.52.08:398][919]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.52.08
+[2022.05.31-03.52.08:398][919]LogWorld: Bringing up level for play took: 0.000618
+[2022.05.31-03.52.08:398][919]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.31-03.52.08:400][919]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.52.08:400][919]PIE: 에디터에서 플레이 총 시작 시간 0.059초입니다.
+[2022.05.31-03.52.09:378][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.09:378][975]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.09:378][975]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.09:378][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.09:388][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.09:397][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.09:416][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.09:416][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.09:417][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.09:423][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.05.31-03.52.09:439][976]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.31-03.52.10:977][ 68]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.52.10:981][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.52.10:981][ 68]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:52:10)
+[2022.05.31-03.52.10:981][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.10:983][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001981s)
+[2022.05.31-03.52.10:984][ 68]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.52.10:984][ 68]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2022.05.31-03.52.10:984][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.003304s)
+[2022.05.31-03.52.11:006][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.31-03.52.11:007][ 68]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.52.11:007][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.52.11:007][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.52.11:007][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.52.11:007][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.52.11:007][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.52.11:008][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.52.11:008][ 68]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.52.11:030][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.52.11:031][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.52.11:031][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.52.11:031][ 68]LogInit: FAudioDevice initialized.
+[2022.05.31-03.52.11:031][ 68]LogAudio: Display: Audio Device (ID: 6) registered with world 'ProjectileTest'.
+[2022.05.31-03.52.11:037][ 68]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.52.11:038][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.52.11
+[2022.05.31-03.52.11:038][ 68]LogWorld: Bringing up level for play took: 0.000614
+[2022.05.31-03.52.11:038][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.31-03.52.11:040][ 68]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.52.11:040][ 68]PIE: 에디터에서 플레이 총 시작 시간 0.06초입니다.
+[2022.05.31-03.52.11:548][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.11:548][ 97]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.11:548][ 97]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.11:548][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.11:555][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.11:563][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.11:583][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.11:583][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.11:584][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.11:590][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.31-03.52.11:639][100]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.31-03.52.26:886][  9]BlueprintLog: New page: BP_Projectile_parent 컴파일
+[2022.05.31-03.52.26:927][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.05.31-03.52.26:963][  9]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.31-03.52.26:964][  9]LogSlate: Took 0.000890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.05.31-03.52.29:065][133]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.52.29:069][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.52.29:069][133]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:52:29)
+[2022.05.31-03.52.29:069][133]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.29:071][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2022.05.31-03.52.29:072][133]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.52.29:072][133]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2022.05.31-03.52.29:072][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.002966s)
+[2022.05.31-03.52.29:095][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.05.31-03.52.29:096][133]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.52.29:096][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.52.29:096][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.52.29:096][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.52.29:096][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.52.29:096][133]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.52.29:097][133]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.52.29:097][133]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.52.29:119][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.52.29:119][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.52.29:120][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.52.29:120][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.52.29:120][133]LogInit: FAudioDevice initialized.
+[2022.05.31-03.52.29:120][133]LogAudio: Display: Audio Device (ID: 7) registered with world 'ProjectileTest'.
+[2022.05.31-03.52.29:126][133]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.52.29:127][133]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.52.29
+[2022.05.31-03.52.29:127][133]LogWorld: Bringing up level for play took: 0.000631
+[2022.05.31-03.52.29:127][133]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.05.31-03.52.29:129][133]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.52.29:130][133]PIE: 에디터에서 플레이 총 시작 시간 0.061초입니다.
+[2022.05.31-03.52.31:107][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.31:107][249]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.31:107][249]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.31:107][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.31:115][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.31:123][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.31:143][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.52.31:143][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.31:144][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.31:146][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.31:149][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.31-03.52.31:183][251]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.31-03.52.53:637][586]BlueprintLog: New page: BP_Projectile_parent 컴파일
+[2022.05.31-03.52.53:677][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.31-03.52.54:694][643]LogSavePackage: Moving '../../../../../../work/MyProjectGame_TowerDefense/Saved/BP_Projectile_parent220CDC8940DAB3B79B428FB3CE39FE8F.tmp' to '../../../../../../work/MyProjectGame_TowerDefense/Content/BluePrints/BP_Parents/BP_Projectile_parent.uasset'
+[2022.05.31-03.52.54:708][643]AssetCheck: New page: 에셋 저장:  BP_Projectile_parent
+[2022.05.31-03.52.54:708][643]LogContentValidation: Display: Blueprint /Game/BluePrints/BP_Parents/BP_Projectile_parent.BP_Projectile_parent 유효성 검사 중
+[2022.05.31-03.52.55:915][716]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.52.55:919][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.52.55:919][716]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:52:55)
+[2022.05.31-03.52.55:919][716]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.55:921][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001869s)
+[2022.05.31-03.52.55:922][716]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.52.55:922][716]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.05.31-03.52.55:922][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.002873s)
+[2022.05.31-03.52.55:944][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.31-03.52.55:945][716]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.52.55:945][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.52.55:945][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.52.55:946][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.52.55:946][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.52.55:946][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.52.55:946][716]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.52.55:947][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.52.55:947][716]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.52.55:968][716]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.52.55:969][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.52.55:969][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.52.55:969][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.52.55:969][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.52.55:969][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.52.55:969][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.52.55:970][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.52.55:970][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.52.55:970][716]LogInit: FAudioDevice initialized.
+[2022.05.31-03.52.55:970][716]LogAudio: Display: Audio Device (ID: 8) registered with world 'ProjectileTest'.
+[2022.05.31-03.52.55:980][716]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.52.55:981][716]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.52.55
+[2022.05.31-03.52.55:982][716]LogWorld: Bringing up level for play took: 0.000639
+[2022.05.31-03.52.55:982][716]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.05.31-03.52.55:983][716]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.52.55:984][716]PIE: 에디터에서 플레이 총 시작 시간 0.065초입니다.
+[2022.05.31-03.52.57:958][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.57:958][832]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.52.57:958][832]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.52.57:958][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.57:967][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.52.57:976][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.52.57:996][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.52.57:996][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.57:997][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.52.57:999][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.52.58:003][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.31-03.52.58:044][834]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.31-03.53.11:244][611]BlueprintLog: New page: BP_Projectile_parent 컴파일
+[2022.05.31-03.53.11:282][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.05.31-03.53.13:146][717]LogSavePackage: Moving '../../../../../../work/MyProjectGame_TowerDefense/Saved/BP_Projectile_parentD0F8B1A84C0ABF46F24C968863151953.tmp' to '../../../../../../work/MyProjectGame_TowerDefense/Content/BluePrints/BP_Parents/BP_Projectile_parent.uasset'
+[2022.05.31-03.53.13:157][717]AssetCheck: New page: 에셋 저장:  BP_Projectile_parent
+[2022.05.31-03.53.13:157][717]LogContentValidation: Display: Blueprint /Game/BluePrints/BP_Parents/BP_Projectile_parent.BP_Projectile_parent 유효성 검사 중
+[2022.05.31-03.53.14:506][798]LogTemp: Repeating last play command: 시뮬레이트
+[2022.05.31-03.53.14:509][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.31-03.53.14:510][798]PIE: New page: SIE 세션: ProjectileTest (2022. 5. 31. 오후 9:53:14)
+[2022.05.31-03.53.14:510][798]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.53.14:512][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2022.05.31-03.53.14:512][798]LogAIModule: Creating AISystem for world ProjectileTest
+[2022.05.31-03.53.14:513][798]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2022.05.31-03.53.14:513][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProjectileTest.ProjectileTest to /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest (0.002937s)
+[2022.05.31-03.53.14:536][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.05.31-03.53.14:536][798]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.31-03.53.14:536][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.31-03.53.14:536][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.31-03.53.14:537][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.31-03.53.14:537][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.31-03.53.14:537][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.31-03.53.14:537][798]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.31-03.53.14:538][798]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.31-03.53.14:538][798]LogAudioMixer: Display: 1: FrontRight
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.31-03.53.14:560][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.31-03.53.14:560][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.31-03.53.14:561][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.31-03.53.14:561][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.31-03.53.14:561][798]LogInit: FAudioDevice initialized.
+[2022.05.31-03.53.14:561][798]LogAudio: Display: Audio Device (ID: 9) registered with world 'ProjectileTest'.
+[2022.05.31-03.53.14:570][798]LogLoad: Game class is 'GameModeBase'
+[2022.05.31-03.53.14:572][798]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProjectileTest.ProjectileTest up for play (max tick rate 60) at 2022.05.31-12.53.14
+[2022.05.31-03.53.14:572][798]LogWorld: Bringing up level for play took: 0.000610
+[2022.05.31-03.53.14:572][798]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.05.31-03.53.14:573][798]PIE: 서버가 로그인했습니다.
+[2022.05.31-03.53.14:574][798]PIE: 에디터에서 플레이 총 시작 시간 0.065초입니다.
+[2022.05.31-03.53.17:868][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.53.17:868][994]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ProjectileTest
+[2022.05.31-03.53.17:868][994]LogWorld: UWorld::CleanupWorld for ProjectileTest, bSessionEnded=true, bCleanupResources=true
+[2022.05.31-03.53.17:868][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.53.17:874][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.31-03.53.17:883][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.31-03.53.17:903][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.31-03.53.17:903][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.53.17:904][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.31-03.53.17:907][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.31-03.53.17:910][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.05.31-03.53.17:947][996]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.05.31-03.53.22:087][240]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.31-03.53.22:177][240]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.090 s
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: 
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinBool [NodeFactory.cpp(264)]). See InvalidateGraphData for more info
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: Stack: 
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd3c476b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd2712db UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd26ff58 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd27d0bc UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd2f879c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbcd2f5c7f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6b559 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6b3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6b3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:177][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddd6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd84945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd83ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd86c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbc9be74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbdbd87a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddb41bee UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddb72779 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddb42547 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddb98279 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffbddb97a73 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff604269a1f UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff604280fcc UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff6042810ba UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff6042840dd UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff604295984 UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ff60429853a UE4Editor.exe!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffc44987034 KERNEL32.DLL!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: [Callstack] 0x00007ffc45042651 ntdll.dll!UnknownFunction []
+[2022.05.31-03.53.22:178][240]LogOutputDevice: Error: 
